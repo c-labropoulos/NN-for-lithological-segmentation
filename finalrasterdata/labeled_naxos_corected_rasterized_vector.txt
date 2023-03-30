@@ -1,0 +1,4 @@
+0: nan
+8: Sxistolithoi
+13: Skliroi asvestolithoi
+15: Granitis

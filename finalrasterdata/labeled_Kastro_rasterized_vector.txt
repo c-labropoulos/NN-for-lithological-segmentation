@@ -1,0 +1,4 @@
+0: nan
+4: Tritogeneis apotheseis
+11: Allouvia
+13: Skliroi asvestolithoi

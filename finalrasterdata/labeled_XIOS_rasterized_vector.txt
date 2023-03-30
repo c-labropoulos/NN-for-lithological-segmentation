@@ -1,0 +1,7 @@
+0: nan
+1: Not available
+4: Tritogeneis apotheseis
+8: Sxistolithoi
+10: Kollouvia Asvestolithon
+11: Allouvia
+13: Skliroi asvestolithoi

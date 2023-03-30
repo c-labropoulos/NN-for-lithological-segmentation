@@ -1,0 +1,4 @@
+0: nan
+4: Tritogeneis apotheseis
+7: Gnesioi
+15: Granitis

@@ -1,0 +1,8 @@
+0: nan
+7: Gnesioi
+8: Sxistolithoi
+10: Kollouvia Asvestolithon
+11: Allouvia
+13: Skliroi asvestolithoi
+15: Granitis
+16: Kollouvia Gneusion
